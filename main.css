@@ -109,7 +109,9 @@
 
 /* footer section starts */
 
-
+.site-logo {
+  text-decoration-line: none;
+}
 
 /* footer section ends */
 
