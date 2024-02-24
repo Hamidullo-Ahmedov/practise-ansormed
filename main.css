@@ -109,8 +109,16 @@
 
 /* footer section starts */
 
+.site-footer {
+  background-color: #222;
+}
+
 .site-logo {
   text-decoration-line: none;
+}
+
+.footer-link {
+  color: #fff;
 }
 
 /* footer section ends */
